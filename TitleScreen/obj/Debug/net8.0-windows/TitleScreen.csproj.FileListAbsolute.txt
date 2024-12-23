@@ -1,0 +1,54 @@
+C:\Users\Sojeee\source\repos\TitleScreen\TitleScreen\bin\Debug\net8.0-windows\TitleScreen.exe
+C:\Users\Sojeee\source\repos\TitleScreen\TitleScreen\bin\Debug\net8.0-windows\TitleScreen.deps.json
+C:\Users\Sojeee\source\repos\TitleScreen\TitleScreen\bin\Debug\net8.0-windows\TitleScreen.runtimeconfig.json
+C:\Users\Sojeee\source\repos\TitleScreen\TitleScreen\bin\Debug\net8.0-windows\TitleScreen.dll
+C:\Users\Sojeee\source\repos\TitleScreen\TitleScreen\bin\Debug\net8.0-windows\TitleScreen.pdb
+C:\Users\Sojeee\source\repos\TitleScreen\TitleScreen\obj\Debug\net8.0-windows\TitleScreen.Properties.Resources.resources
+C:\Users\Sojeee\source\repos\TitleScreen\TitleScreen\obj\Debug\net8.0-windows\TitleScreen.TitleScreen.resources
+C:\Users\Sojeee\source\repos\TitleScreen\TitleScreen\obj\Debug\net8.0-windows\TitleScreen.csproj.GenerateResource.cache
+C:\Users\Sojeee\source\repos\TitleScreen\TitleScreen\obj\Debug\net8.0-windows\TitleScreen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sojeee\source\repos\TitleScreen\TitleScreen\obj\Debug\net8.0-windows\TitleScreen.AssemblyInfoInputs.cache
+C:\Users\Sojeee\source\repos\TitleScreen\TitleScreen\obj\Debug\net8.0-windows\TitleScreen.AssemblyInfo.cs
+C:\Users\Sojeee\source\repos\TitleScreen\TitleScreen\obj\Debug\net8.0-windows\TitleScreen.csproj.CoreCompileInputs.cache
+C:\Users\Sojeee\source\repos\TitleScreen\TitleScreen\obj\Debug\net8.0-windows\TitleScreen.dll
+C:\Users\Sojeee\source\repos\TitleScreen\TitleScreen\obj\Debug\net8.0-windows\refint\TitleScreen.dll
+C:\Users\Sojeee\source\repos\TitleScreen\TitleScreen\obj\Debug\net8.0-windows\TitleScreen.pdb
+C:\Users\Sojeee\source\repos\TitleScreen\TitleScreen\obj\Debug\net8.0-windows\TitleScreen.genruntimeconfig.cache
+C:\Users\Sojeee\source\repos\TitleScreen\TitleScreen\obj\Debug\net8.0-windows\ref\TitleScreen.dll
+C:\Users\Sojeee\source\repos\TitleScreen\TitleScreen\obj\Debug\net8.0-windows\TitleScreen.GameOverScreen.resources
+C:\Users\Sojeee\OneDrive\Desktop\backups codes\TitleScreen2\TitleScreen\bin\Debug\net8.0-windows\TitleScreen.exe
+C:\Users\Sojeee\OneDrive\Desktop\backups codes\TitleScreen2\TitleScreen\bin\Debug\net8.0-windows\TitleScreen.deps.json
+C:\Users\Sojeee\OneDrive\Desktop\backups codes\TitleScreen2\TitleScreen\bin\Debug\net8.0-windows\TitleScreen.runtimeconfig.json
+C:\Users\Sojeee\OneDrive\Desktop\backups codes\TitleScreen2\TitleScreen\bin\Debug\net8.0-windows\TitleScreen.dll
+C:\Users\Sojeee\OneDrive\Desktop\backups codes\TitleScreen2\TitleScreen\bin\Debug\net8.0-windows\TitleScreen.pdb
+C:\Users\Sojeee\OneDrive\Desktop\backups codes\TitleScreen2\TitleScreen\obj\Debug\net8.0-windows\TitleScreen.GameOverScreen.resources
+C:\Users\Sojeee\OneDrive\Desktop\backups codes\TitleScreen2\TitleScreen\obj\Debug\net8.0-windows\TitleScreen.Properties.Resources.resources
+C:\Users\Sojeee\OneDrive\Desktop\backups codes\TitleScreen2\TitleScreen\obj\Debug\net8.0-windows\TitleScreen.TitleScreen.resources
+C:\Users\Sojeee\OneDrive\Desktop\backups codes\TitleScreen2\TitleScreen\obj\Debug\net8.0-windows\TitleScreen.csproj.GenerateResource.cache
+C:\Users\Sojeee\OneDrive\Desktop\backups codes\TitleScreen2\TitleScreen\obj\Debug\net8.0-windows\TitleScreen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sojeee\OneDrive\Desktop\backups codes\TitleScreen2\TitleScreen\obj\Debug\net8.0-windows\TitleScreen.AssemblyInfoInputs.cache
+C:\Users\Sojeee\OneDrive\Desktop\backups codes\TitleScreen2\TitleScreen\obj\Debug\net8.0-windows\TitleScreen.AssemblyInfo.cs
+C:\Users\Sojeee\OneDrive\Desktop\backups codes\TitleScreen2\TitleScreen\obj\Debug\net8.0-windows\TitleScreen.csproj.CoreCompileInputs.cache
+C:\Users\Sojeee\OneDrive\Desktop\backups codes\TitleScreen2\TitleScreen\obj\Debug\net8.0-windows\TitleScreen.dll
+C:\Users\Sojeee\OneDrive\Desktop\backups codes\TitleScreen2\TitleScreen\obj\Debug\net8.0-windows\refint\TitleScreen.dll
+C:\Users\Sojeee\OneDrive\Desktop\backups codes\TitleScreen2\TitleScreen\obj\Debug\net8.0-windows\TitleScreen.pdb
+C:\Users\Sojeee\OneDrive\Desktop\backups codes\TitleScreen2\TitleScreen\obj\Debug\net8.0-windows\TitleScreen.genruntimeconfig.cache
+C:\Users\Sojeee\OneDrive\Desktop\backups codes\TitleScreen2\TitleScreen\obj\Debug\net8.0-windows\ref\TitleScreen.dll
+C:\Users\Sojeee\OneDrive\Desktop\TitleScreen\TitleScreen\bin\Debug\net8.0-windows\TitleScreen.exe
+C:\Users\Sojeee\OneDrive\Desktop\TitleScreen\TitleScreen\bin\Debug\net8.0-windows\TitleScreen.deps.json
+C:\Users\Sojeee\OneDrive\Desktop\TitleScreen\TitleScreen\bin\Debug\net8.0-windows\TitleScreen.runtimeconfig.json
+C:\Users\Sojeee\OneDrive\Desktop\TitleScreen\TitleScreen\bin\Debug\net8.0-windows\TitleScreen.dll
+C:\Users\Sojeee\OneDrive\Desktop\TitleScreen\TitleScreen\bin\Debug\net8.0-windows\TitleScreen.pdb
+C:\Users\Sojeee\OneDrive\Desktop\TitleScreen\TitleScreen\obj\Debug\net8.0-windows\TitleScreen.GameOverScreen.resources
+C:\Users\Sojeee\OneDrive\Desktop\TitleScreen\TitleScreen\obj\Debug\net8.0-windows\TitleScreen.Properties.Resources.resources
+C:\Users\Sojeee\OneDrive\Desktop\TitleScreen\TitleScreen\obj\Debug\net8.0-windows\TitleScreen.TitleScreen.resources
+C:\Users\Sojeee\OneDrive\Desktop\TitleScreen\TitleScreen\obj\Debug\net8.0-windows\TitleScreen.csproj.GenerateResource.cache
+C:\Users\Sojeee\OneDrive\Desktop\TitleScreen\TitleScreen\obj\Debug\net8.0-windows\TitleScreen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sojeee\OneDrive\Desktop\TitleScreen\TitleScreen\obj\Debug\net8.0-windows\TitleScreen.AssemblyInfoInputs.cache
+C:\Users\Sojeee\OneDrive\Desktop\TitleScreen\TitleScreen\obj\Debug\net8.0-windows\TitleScreen.AssemblyInfo.cs
+C:\Users\Sojeee\OneDrive\Desktop\TitleScreen\TitleScreen\obj\Debug\net8.0-windows\TitleScreen.csproj.CoreCompileInputs.cache
+C:\Users\Sojeee\OneDrive\Desktop\TitleScreen\TitleScreen\obj\Debug\net8.0-windows\TitleScreen.dll
+C:\Users\Sojeee\OneDrive\Desktop\TitleScreen\TitleScreen\obj\Debug\net8.0-windows\refint\TitleScreen.dll
+C:\Users\Sojeee\OneDrive\Desktop\TitleScreen\TitleScreen\obj\Debug\net8.0-windows\TitleScreen.pdb
+C:\Users\Sojeee\OneDrive\Desktop\TitleScreen\TitleScreen\obj\Debug\net8.0-windows\TitleScreen.genruntimeconfig.cache
+C:\Users\Sojeee\OneDrive\Desktop\TitleScreen\TitleScreen\obj\Debug\net8.0-windows\ref\TitleScreen.dll

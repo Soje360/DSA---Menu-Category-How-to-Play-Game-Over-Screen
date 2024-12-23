@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sojeee\\OneDrive\\Desktop\\TitleScreen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57928C9B-5F37-48BD-BC1F-EB1962B872D8}|TitleScreen\\TitleScreen.csproj|C:\\Users\\Sojeee\\OneDrive\\Desktop\\TitleScreen\\titlescreen\\titlescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57928C9B-5F37-48BD-BC1F-EB1962B872D8}|TitleScreen\\TitleScreen.csproj|solutionrelative:titlescreen\\titlescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57928C9B-5F37-48BD-BC1F-EB1962B872D8}|TitleScreen\\TitleScreen.csproj|c:\\users\\sojeee\\onedrive\\desktop\\titlescreen\\titlescreen\\gameoverscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57928C9B-5F37-48BD-BC1F-EB1962B872D8}|TitleScreen\\TitleScreen.csproj|solutionrelative:titlescreen\\gameoverscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57928C9B-5F37-48BD-BC1F-EB1962B872D8}|TitleScreen\\TitleScreen.csproj|c:\\users\\sojeee\\onedrive\\desktop\\titlescreen\\titlescreen\\titlescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57928C9B-5F37-48BD-BC1F-EB1962B872D8}|TitleScreen\\TitleScreen.csproj|solutionrelative:titlescreen\\titlescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57928C9B-5F37-48BD-BC1F-EB1962B872D8}|TitleScreen\\TitleScreen.csproj|C:\\Users\\Sojeee\\OneDrive\\Desktop\\TitleScreen\\titlescreen\\gameoverscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57928C9B-5F37-48BD-BC1F-EB1962B872D8}|TitleScreen\\TitleScreen.csproj|solutionrelative:titlescreen\\gameoverscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 91,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TitleScreen.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Sojeee\\OneDrive\\Desktop\\TitleScreen\\TitleScreen\\TitleScreen.cs",
+              "RelativeDocumentMoniker": "TitleScreen\\TitleScreen.cs",
+              "ToolTip": "C:\\Users\\Sojeee\\OneDrive\\Desktop\\TitleScreen\\TitleScreen\\TitleScreen.cs [Design]",
+              "RelativeToolTip": "TitleScreen\\TitleScreen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T10:50:28.288Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameOverScreen.cs",
+              "DocumentMoniker": "C:\\Users\\Sojeee\\OneDrive\\Desktop\\TitleScreen\\TitleScreen\\GameOverScreen.cs",
+              "RelativeDocumentMoniker": "TitleScreen\\GameOverScreen.cs",
+              "ToolTip": "C:\\Users\\Sojeee\\OneDrive\\Desktop\\TitleScreen\\TitleScreen\\GameOverScreen.cs",
+              "RelativeToolTip": "TitleScreen\\GameOverScreen.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAUwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T03:29:25.631Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameOverScreen.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Sojeee\\OneDrive\\Desktop\\TitleScreen\\TitleScreen\\GameOverScreen.cs",
+              "RelativeDocumentMoniker": "TitleScreen\\GameOverScreen.cs",
+              "ToolTip": "C:\\Users\\Sojeee\\OneDrive\\Desktop\\backups codes\\TitleScreen2\\TitleScreen\\GameOverScreen.cs [Design]",
+              "RelativeToolTip": "..\\backups codes\\TitleScreen2\\TitleScreen\\GameOverScreen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T13:12:15.012Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TitleScreen.cs",
+              "DocumentMoniker": "C:\\Users\\Sojeee\\OneDrive\\Desktop\\TitleScreen\\TitleScreen\\TitleScreen.cs",
+              "RelativeDocumentMoniker": "TitleScreen\\TitleScreen.cs",
+              "ToolTip": "C:\\Users\\Sojeee\\OneDrive\\Desktop\\TitleScreen\\TitleScreen\\TitleScreen.cs",
+              "RelativeToolTip": "TitleScreen\\TitleScreen.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAACbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T03:46:32.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 91,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
